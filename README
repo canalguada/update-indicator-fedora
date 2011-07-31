@@ -1,0 +1,6 @@
+A top bar indicator for Fedora Gnome-Shell that informs the user about new updates and provides access to refresh and install new updates.
+
+Forked Update Indicator extension for Fedora users from Ubuntu package found at
+https://launchpad.net/~aegirxx-googlemail/+archive/gnome-shell-extensions
+
+Requires : beesu

@@ -1,0 +1,8 @@
+.popup-menu-item:disabled {
+    color: #aaaaaa;
+}
+
+StEntry#TimeoutEntry {
+    width: 50px;
+    max-width: 50px;
+}
